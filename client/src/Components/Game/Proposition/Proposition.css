@@ -1,0 +1,22 @@
+#proposition input{
+    width:15vw;
+    height:5vh;
+    border-radius: 5px;
+    background-color: rgb(255, 97, 97);
+    font-size: 1.5em;
+    color: white;
+    border:0px;
+    padding: 2px;
+    padding-left: 10px;
+}
+
+#proposition button{
+    background-color: rgb(255, 97, 97);
+    font-size: 1.5em;
+    color: white;
+    height: 5vh;
+    width: 4vw;
+    border-radius: 5px;
+    margin-left: 30px;
+    border:transparent;
+}
